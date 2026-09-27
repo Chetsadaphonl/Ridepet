@@ -28,7 +28,7 @@ local _ = fenv.bFlk5z4Z8huKC
 local _ = game.PlaceId
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/RVXv2/RVX-hub/main/games/intro.lua'))().Show(function(_35, _35_2, _35_3, _35_4)
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/RVXv2/RVX-hub/main/games/universal.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Chetsadaphonl/Ridepet/refs/heads/main/game/universal.lua'))()
 
     local _ = fenv.sJewFP50tYS20
     local _ = fenv.hLSy82aRXVqP
